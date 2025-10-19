@@ -1,3 +1,11 @@
+O SGO é um sistema para gerenciar competições, inscrições de atletas, alocação de locais e controle de resultados das Olimpíadas. Permite registrar competições, cadastrar atletas, alocar locais sem conflito de horários e gerar relatórios de medalhas por país.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*CASOS DE USO*
+
+
+
 US01 : Cadastro de Competição
 - Como Administrador, quero cadastrar as competições.
   
