@@ -24,8 +24,6 @@ US05: Administrar Resultados
 US6 : Relatório de medalhas de todas as competições.
 - Como administrador / público, quero gerar relatórios de medalhas por país (ouro, prata, bronze), para acompanhar o desempenho das delegações.
 ---------------------------------------------------------------------------------------------------------------------------------------------
-*_Diagrama casos de uso_*
-/img/diagrama_caso-de-uso.png
-*_Diagrama casos de uso_*
-*_Diagrama casos de uso_*
-*_Diagrama casos de uso_*
+
+*_Diagrama casos de uso_*<img width="893" height="717" alt="diagrama_caso-de-uso" src="https://github.com/user-attachments/assets/b0ed7ba6-31d5-458e-84d7-ff3e72e5cff2" />
+
