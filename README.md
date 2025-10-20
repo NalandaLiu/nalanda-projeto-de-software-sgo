@@ -27,7 +27,8 @@ US6 : Relatório de medalhas de todas as competições.
 
 *_Diagrama casos de uso_*
 
-<img width="893" height="717" alt="diagrama_caso-de-uso" src="https://github.com/user-attachments/assets/b0ed7ba6-31d5-458e-84d7-ff3e72e5cff2" />
+<img width="1536" height="1024" alt="diagrama_casos" src="https://github.com/user-attachments/assets/df1fba50-a0d0-4add-98a5-cf42d9b49661" />
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 *Diagrama de implantação*
