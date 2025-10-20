@@ -40,12 +40,12 @@ US6 : Relatório de medalhas de todas as competições.
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Diagrama de pacotes*
-<img width="1536" height="1024" alt="diagrama_de_pacotes" src="https://github.com/user-attachments/assets/4f752608-e0dd-4be8-a4b4-2279f0ea9412" />
+<img width="1442" height="710" alt="diagrama_pacotes" src="https://github.com/user-attachments/assets/6a564a9f-9c26-4eeb-97b9-ab83827101ee" />
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Diagrama de classes*
-<img width="1076" height="697" alt="diagrama_classes" src="https://github.com/user-attachments/assets/b6c0bf9b-bf54-4c1c-93b9-c10cb55fcb22" />
-
+<img width="1536" height="1024" alt="diagrama_de_pacotes" src="https://github.com/user-attachments/assets/4f752608-e0dd-4be8-a4b4-2279f0ea9412" />
 
 
